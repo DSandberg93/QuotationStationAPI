@@ -11,7 +11,7 @@ Make sure you have installed a version f python that is compatible with `venv` b
 
 Next, you need to install the project dependencies. This can be done using the following command:
 
-`pip install -r requirements.txt`
+`pip install -r requirements.txt`   (You may need to use `pip3` instead of `pip`)
 
 Congratulations! You completed the setup and are ready to run the api.
 
@@ -20,6 +20,8 @@ To exit the environment, run the command:
 `env\scripts\deactivate.bat`
 
 ## Running the api
+Before you start the api, make sure you are inside the virtual eviroment mentioned above and that the necessary dependencies are installed in the environment.
+
 To run the api, simply run the following command:
 
 `python3 api.py`
@@ -39,3 +41,6 @@ This will start the server and the command line window should display this:
 ` * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)`
 
 This means the server is running properly (on port 5000), and you can begin sending api calls to it.
+
+## Disclamer
+The quotes and funfacts provided by this api are not mine. They are meant to be used for a school project and are not monetized in any way. All credit goes to the authors, who are part of the api resonses along with the quotes and funfacts themselves!
