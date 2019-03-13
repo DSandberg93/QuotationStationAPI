@@ -39,3 +39,6 @@ This will start the server and the command line window should display this:
 ` * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)`
 
 This means the server is running properly (on port 5000), and you can begin sending api calls to it.
+
+## Disclamer
+The quotes and funfacts provided by this api are not mine. They are meant to be used for a school project and are not monetized in any way. All credit goes to the authors, who are part of the api resonses along with the quotes and funfacts themselves!
