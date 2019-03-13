@@ -2510,16 +2510,8 @@ quotes = {
 	],
 	"funny" : [
 		{
-			"author" : "Bill Cosby",
-			"value"  : "A word to the wise ain't necessary - it's the stupid ones that need the advice."
-		},
-		{
 			"author" : "Jim Carrey",
 			"value"  : "Behind every great man is a woman rolling her eyes."
-		},
-		{
-			"author" : "Elbert Hubbard",
-			"value"  : "Do not take life too seriously. You will never get out of it alive."
 		},
 		{
 			"author" : "Steve Martin",
@@ -2536,10 +2528,6 @@ quotes = {
 		{
 			"author" : "George Bernard Shaw",
 			"value"  : "A government that robs Peter to pay Paul can always depend on the support of Paul."
-		},
-		{
-			"author" : "Buddy Hackett",
-			"value"  : "As a child my family's menu consisted of two choices: take it or leave it."
 		},
 		{
 			"author" : "Mark Twain",
@@ -10778,10 +10766,6 @@ quotes = {
 			"value"  : "Military intelligence is a contradiction in terms."
 		},
 		{
-			"author" : "William F. Buckley, Jr.",
-			"value"  : "I won't insult your intelligence by suggesting that you really believe what you just said."
-		},
-		{
 			"author" : "Aldous Huxley",
 			"value"  : "Man is an intelligence in servitude to his organs."
 		},
@@ -11216,10 +11200,6 @@ quotes = {
 		{
 			"author" : "David M. Shoup",
 			"value"  : "To lack intelligence is to be in the ring blindfolded."
-		},
-		{
-			"author" : "James R. Bath",
-			"value"  : "I am not a member of the CIA or any other intelligence agency."
 		},
 	],
 	"life" : [
@@ -12996,10 +12976,6 @@ quotes = {
 		{
 			"author" : "Winston Churchill",
 			"value"  : "If you're going through hell, keep going."
-		},
-		{
-			"author" : "Matthew Henry",
-			"value"  : "After a storm comes a calm."
 		},
 		{
 			"author" : "C. S. Lewis",
@@ -16146,10 +16122,6 @@ quotes = {
 			"value"  : "A lie can travel half way around the world while the truth is putting on its shoes."
 		},
 		{
-			"author" : "Eubie Blake",
-			"value"  : "Never trust anyone who wants what you've got. Friend or no, envy is an overwhelming emotion."
-		},
-		{
 			"author" : "Stanley Baldwin",
 			"value"  : "I would rather trust a woman's instinct than a man's reason."
 		},
@@ -16187,7 +16159,7 @@ quotes = {
 		},
 		{
 			"author" : "Cher",
-			"value"  : "I can trust my friends These people force me to examine myself, encourage me to grow."
+			"value"  : "I can trust my friends. These people force me to examine myself, encourage me to grow."
 		},
 		{
 			"author" : "Billy Wilder",
@@ -17254,22 +17226,22 @@ quotes = {
 			"value"  : "The betrayal of trust carries a heavy taboo."
 		},
 	],
-	"funfacts": {
+	"funfacts":{
 		"temperature":	{
 			"below15": [
 				{
 					"author":	"below15",
-					"value":	"When we breathe out smoke when it is cold outside, it is caused by the vater vapour we exhale condensing in the cold air."
+					"value":	"When we breathe out smoke when it is cold outside, it is caused by the vater vapour we exhale condensing in the cold air." #
 				},
 				{
 					"author":	"below15",
-					"value":	"ojmjakon is the coldest inhabited place on earth with a average temperature in january of -51 degrees celsius"
+					"value":	"Ojmjakon is the coldest inhabited place on earth with a average temperature of -51 degrees celsius in january." #
 				},
 			],
 			"above15": [
 				{
 					"author":	"above15",
-					"value":	"the hottest time of day in Norway is often between 15 and 18 in the afternoon."
+					"value":	"The hottest period of the day in Norway is often between 15 and 18 in the afternoon." #
 				},
 			],
 		},
@@ -17277,13 +17249,13 @@ quotes = {
 			"below10mps": [
 				{
 					"author":	"below10mps",
-					"value":	"det rOligstE stedet I verden er På ridge a på det antarktiske platå og det er det perfekte stedet foR astronomiske observasjoner. et observatorium der kan produsere bilder på nivå med Hubble teleskopet."
+					"value":	"Ridge A on the Antarctic plateu is the calmest place on earth. It is possibly best place for astronomical observations, as a observatory in this location could produce pictures of the same quality as the Hubble telescope."#
 				},
 			],
 			"above10mps": [
 				{
 					"author":	"above10mps",
-					"value":	"As long as the air temperature is lower than your body temparaturE, you loose heat to the air. wind is percieved as colder because the heated air surrounding your body is replaced with new, cold air."
+					"value":	"As long as the air temperature is lower than your body temparature, you loose heat to the air. Wind makes it feel colder because the heated air surrounding your body is replaced with new, cold air, which increases heat loss." #
 				},
 			],
 		},
@@ -17291,31 +17263,31 @@ quotes = {
 			"none": [
 				{
 					"author":	"none",
-					"value":	"on some places in antarctica, there have not been any downpour in over 2 million years."
+					"value":	"In some places in Antarctica, there have not been any downpour in over 2 million years." #
 				},
 				{
 					"author":	"none",
-					"value":	"Deserts cover a third of earth land area. The majority of the desert area is the arctic and antarctic."
+					"value":	"Desserts cover on third of the earths surface, and the Arctic and Antarctic is the cover the major part of these areas." #
 				},
 			],
 			"rain": [
 				{
 					"author":	"rain",
-					"value":	"gray and dirty snow which is usually found in cities, melts faster because of the darker color which absorbs more energy from the sunlight."
+					"value":	"Gray and dirty snow which is usually found in cities, melts faster because of the darker color which absorbs more energy from the sunlight." #
 				},
 				{
 					"author":	"rain",
-					"value":	"it is easier to get sunburnt in the snow because you receive sunlight both from the sun and from reflections on the snow."
+					"value":	"It is easier to get sunburnt when there is snow outside because you receive sunlight both from the sun and from reflections on the snow." #
 				},
 			],
 			"snow": [
 				{
 					"author":	"snow",
-					"value":	"raindrops are not tearshaped as many believe, but resembles more a jellybean."
+					"value":	"Raindrops are not tearshaped as many believe, but resembles more a jellybean." #
 				},
 				{
 					"author":	"snow",
-					"value":	"The jet stream lead rain to Norway via whatts called athmospheric rivers. These rivers moves water vapout towards towards the northers low pressure areas."
+					"value":	"The Jet stream is transports rain to Norway through something called 'athmospherical rivers'. The rivers transfers water vapour towards a lower pressure in the north." #
 				},
 			]
 		},
@@ -17324,10 +17296,6 @@ quotes = {
 				{
 					"author":	">0",
 					"value":	"vater vapour is a potent greenhouse gas and the amount in the athmosphere is dependand to the air temperature."
-				},
-				{
-					"author":	">0",
-					"value":	"når sola ligger lavt på himmelen vil skyene kan skyene få ulike farger: noen blir mørke, røde Osv, mens noen forblir hvite. fargen er avhengig av hvordan lyset treffer dem og derfor også hvor i atmosfæren de ligger. Man kan derfor se at fargene på ulike skyer er forskjell."
 				},
 			]
 		},
@@ -17343,33 +17311,33 @@ quotes = {
 			"bio": [
 				{
 					"author":	"Idun",
-					"value":	"a boy that is colorblind has inherited it from his mother because the gene lays on the X-cromosome."
+					"value":	"A boy that is colorblind has inherited it from his mother because the gene for colorblindness lays on the X-cromosome." #
 				},
 				{
 					"author":	"Idun",
-					"value":	"Humans and chiMPAnsees share 98.8% of their DNA."
+					"value":	"Humans and chimpansees share 98.8% of their DNA." #
 				},
 				{
 					"author":	"Idun",
-					"value":	"humans Share more than 60% of their DNA with bananas."
+					"value":	"Humans share more than 60% of their DNA with bananas."
 				},
 				{
 					"author":	"Idun",
-					"value":	"humans have more bacterial cells, than their own cells. many of these are important for the functions of the body."
+					"value":	"Humans have more bacterial cells, than own cells. Many of these are important for the functions of the body." #
 				},
 				{
 					"author":	"Idun",
-					"value":	"the mITOcondria has its own set of dna and it is inherited from your mother, not father."
+					"value":	"The mitochondria has its own set of DNA and can only be inherited from your mother. "#
 				},
 			],
 			"chem": [
 				{
 					"author":	"Idun",
-					"value":	"one of the first scientists that managed to isolate the toxin cyanide tasted it. reportedly it tastes like almond oil."
+					"value":	"One of the first scientists that managed to isolate the toxin cyanide tasted it and according to him it tastes like almond oil." #
 				},
 			],
 		},
-		"misc": {
+		"misc":{
 			"space": [
 				{
 					"author":	"Bjørn",
@@ -17389,7 +17357,7 @@ quotes = {
 				},
 				{
 					"author":	"Bjørn",
-					"value":	"The OMG particle was a cosmic ray with equivalent energy to a baseball going 94km/h."
+					"value":	"The Oh-My-God particle was a cosmic ray with equivalent energy to a baseball going 94km/h." #
 				},
 				{
 					"author":	"Bjørn",
