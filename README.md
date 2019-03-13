@@ -21,6 +21,7 @@ To exit the environment, run the command:
 
 ## Running the api
 Before you start the api, make sure you are inside the virtual eviroment mentioned above and that the necessary dependencies are installed in the environment.
+
 To run the api, simply run the following command:
 
 `python3 api.py`
