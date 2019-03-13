@@ -552,10 +552,6 @@ quotes = {
 			"value"  : "Fashion should not be expected to serve in the stead of courage or character."
 		},
 		{
-			"author" : "Tadao Ando",
-			"value"  : "At the same time, I would add that the American people have a lot of courage."
-		},
-		{
 			"author" : "Georg C. Lichtenberg",
 			"value"  : "Never undertake anything for which you wouldn't have the courage to ask the blessings of heaven."
 		},
@@ -638,10 +634,6 @@ quotes = {
 		{
 			"author" : "Gabriele D'Annunzio",
 			"value"  : "Limit to courage? There is no limit to courage."
-		},
-		{
-			"author" : "Muammar al-Gaddafi",
-			"value"  : "We are telling the American people to have patience, courage, resolve and determination."
 		},
 		{
 			"author" : "Umberto Eco",
@@ -1486,10 +1478,6 @@ quotes = {
 			"value"  : "People who insist on telling their dreams are among the terrors of the breakfast table."
 		},
 		{
-			"author" : "Max Beerbohm",
-			"value"  : "We must stop talking about the American dream and start listening to the dreams of Americans."
-		},
-		{
 			"author" : "Amos Bronson Alcott",
 			"value"  : "Our dreams drench us in senses, and senses steps us again in dreams."
 		},
@@ -2090,10 +2078,6 @@ quotes = {
 			"value"  : "They were using the dolls to project their dreams of their own futures as adult women."
 		},
 		{
-			"author" : "Pico Iyer",
-			"value"  : "American dreams are strongest in the hearts of those who have seen America only in their dreams."
-		},
-		{
 			"author" : "John Huston",
 			"value"  : "Hollywood has always been a cage... a cage to catch our dreams."
 		},
@@ -2160,10 +2144,6 @@ quotes = {
 		{
 			"author" : "Jay Electronica",
 			"value"  : "All my dreams are coming true all across the board for some reason."
-		},
-		{
-			"author" : "Rick Mears",
-			"value"  : "America allows us to be able to dream, then gives us the ability to achieve those dreams."
 		},
 		{
 			"author" : "Lorenz Hart",
@@ -2898,10 +2878,6 @@ quotes = {
 			"value"  : "I'm undaunted in my quest to amuse myself by constantly changing my hair."
 		},
 		{
-			"author" : "H. L. Mencken",
-			"value"  : "Nobody ever went broke underestimating the taste of the American public."
-		},
-		{
 			"author" : "Luis Bunuel",
 			"value"  : "Age is something that doesn't matter, unless you are a cheese."
 		},
@@ -3242,10 +3218,6 @@ quotes = {
 			"value"  : "Mail your packages early so the post office can lose them in time for Christmas."
 		},
 		{
-			"author" : "Laurence J. Peter",
-			"value"  : "Television has changed the American child from an irresistable force to an immovable object."
-		},
-		{
 			"author" : "Rita Rudner",
 			"value"  : "To attract men, I wear a perfume called 'New Car Interior.'"
 		},
@@ -3288,10 +3260,6 @@ quotes = {
 		{
 			"author" : "Rita Rudner",
 			"value"  : "In Hollywood a marriage is a success if it outlasts milk."
-		},
-		{
-			"author" : "Alfred Hitchcock",
-			"value"  : "Television has brought back murder into the home - where it belongs."
 		},
 		{
 			"author" : "Lenny Bruce",
@@ -8720,10 +8688,6 @@ quotes = {
 			"value"  : "I hope to make a positive, productive contribution, as cheesy as that may sound."
 		},
 		{
-			"author" : "Willie Aames",
-			"value"  : "I remember thinking, That's what I need - and that hope was in Jesus Christ."
-		},
-		{
 			"author" : "Bear Bryant",
 			"value"  : "I hope to get out before they start football next year."
 		},
@@ -10912,10 +10876,6 @@ quotes = {
 		{
 			"author" : "Edgar Rice Burroghs",
 			"value"  : "Imagination is but another name for super intelligence."
-		},
-		{
-			"author" : "Chris Cannon",
-			"value"  : "Our men and women in uniform deserve the best intelligence possible to help them protect America."
 		},
 		{
 			"author" : "Ted Stevens",
@@ -13224,10 +13184,6 @@ quotes = {
 			"value"  : "I just believe in the goodwill of people, the power of people to do something positive."
 		},
 		{
-			"author" : "Tracey Ullman",
-			"value"  : "I've always gotten a positive reaction to doing African-American characters."
-		},
-		{
 			"author" : "Tim Allen",
 			"value"  : "I'm an algebra liar. I figure two good lies make a positive."
 		},
@@ -13558,10 +13514,6 @@ quotes = {
 		{
 			"author" : "Alexandra Roach",
 			"value"  : "Be positive and laugh at everything."
-		},
-		{
-			"author" : "Aloe Blacc",
-			"value"  : "America's biggest export is media and I think that's a positive thing."
 		},
 		{
 			"author" : "Will Friedle",
@@ -13954,10 +13906,6 @@ quotes = {
 			"value"  : "Well, there's nothing more touching than putting a smile on a kid's face when you can."
 		},
 		{
-			"author" : "Julien Benda",
-			"value"  : "And History will smile to think that this is the species for which Socrates and Jesus Christ died."
-		},
-		{
 			"author" : "Jason Ritter",
 			"value"  : "I never get tired of smiling. I'm just the kind of guy who likes to smile."
 		},
@@ -14040,10 +13988,6 @@ quotes = {
 		{
 			"author" : "John Philpot Curran",
 			"value"  : "His smile is like the silver plate on a coffin."
-		},
-		{
-			"author" : "John Shelton Reed",
-			"value"  : "Southerners smile more than other Americans."
 		},
 		{
 			"author" : "Marguerite Gardiner",
@@ -14680,10 +14624,6 @@ quotes = {
 			"value"  : "It is not the going out of port, but the coming in, that determines the success of a voyage."
 		},
 		{
-			"author" : "Mitt Romney",
-			"value"  : "That business we started with 10 people has now grown into a great American success story."
-		},
-		{
 			"author" : "Lucius Annaeus Seneca",
 			"value"  : "Success is not greedy, as people think, but insignificant. That is why it satisfies nobody."
 		},
@@ -14834,10 +14774,6 @@ quotes = {
 		{
 			"author" : "P. J. O'Rourke",
 			"value"  : "The idea of capitalism is not just success but also the failure that allows success to happen."
-		},
-		{
-			"author" : "Arnold Schwarzenegger",
-			"value"  : "Everything I have, my career, my success, my family, I owe to America."
 		},
 		{
 			"author" : "Horace",
@@ -16126,10 +16062,6 @@ quotes = {
 			"value"  : "In every tyrant's heart there springs in the end this poison, that he cannot trust a friend."
 		},
 		{
-			"author" : "Billy Corgan",
-			"value"  : "Jesus teaches us to forgive and I've got to trust him on that one."
-		},
-		{
 			"author" : "Henry Wadsworth Longfellow",
 			"value"  : "Therefore trust to thy heart, and to what the world calls illusions."
 		},
@@ -16512,10 +16444,6 @@ quotes = {
 		{
 			"author" : "Nancy Grace",
 			"value"  : "I really like my doctors. Some of them I love. I trust them."
-		},
-		{
-			"author" : "James Carville",
-			"value"  : "I think that America will not trust a party to defend America that isn't willing to defend itself."
 		},
 		{
 			"author" : "Payne Stewart",
