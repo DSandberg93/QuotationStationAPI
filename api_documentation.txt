@@ -1,0 +1,66 @@
+API Documentation
+
+Url structure:
+	Root url: /api
+	Supercategory url: /api/<supercategory>
+	Subcategory url: /api/<supercategory>/<subcategory>
+	Parameterized url: /api/<supercategory>/<subcategory>/<parameter>
+
+Urls containing a forward slash at the end are also supported.
+Important: urls are only lowercase!
+
+
+Suported supercategories, subcategories and parameters:
+	<supercategory>
+		<subcategory>
+			<parameter>
+
+	courage
+	dreams
+	fitness
+	funny
+	good
+	happiness
+	hope
+	humor
+	inspirational
+	intelligence
+	life
+	motivational
+	positive
+	smile
+	success
+	trust
+	funfacts
+		temperature
+			below15
+			above15
+		wind
+			below10mps
+			above10mps
+		downpour
+			none
+			rain
+			snow
+		humidity
+			all (optional, same as not including the parameter)
+		airpressure
+			all (optional, same as not including the parameter)
+		biotech
+			bio
+			chem
+		misc
+			space
+
+
+The api returns a single random quote/funfact based on the url received.
+If the url contains a supercategory that has a subcategory, but the url does not specify the subclass
+(i.e. /api/<supercategory>), then a random quote/funfact from a random subcategory is returned.
+If the url contains a subcategory that has a parameter, but the url does not specify the parameter
+(i.e. /api/<supercategory>/<subcategory>), then a random quote/funfact based on a random parameter is returned.
+If the url is only the root url (i.e. /api), then a completely random quote/funfact from the entire api
+is returned.
+
+The api is currently set to run on port 5000 on the localhost.
+The command for running the api is 'python api.py', where the api.py is the api file. Make sure you are in
+the correct folder!
