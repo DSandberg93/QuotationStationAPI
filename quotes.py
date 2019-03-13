@@ -17295,7 +17295,7 @@ quotes = {
 				},
 				{
 					"Author":	"none",
-					"Quote":	"Ørkener dekker en tRedjedel aV jordoverflaten og arktis og Antarktis utgjør størsteparten av disse områdene."
+					"Quote":	"Deserts cover a third of earth land area. The majority of the desert area is the arctic and antarctic."
 				},
 			],
 			"rain": [
@@ -17315,7 +17315,7 @@ quotes = {
 				},
 				{
 					"Author":	"snow",
-					"Quote":	"jet-strømmen fører regn til norge via det som kAlles for atmosfæriske elver. Elvene fraktEr vanndamp mot et lavtrykk i Nord."
+					"Quote":	"The jet stream lead rain to Norway via whatts called athmospheric rivers. These rivers moves water vapout towards towards the northers low pressure areas."
 				},
 			]
 		},
@@ -17389,7 +17389,29 @@ quotes = {
 				},
 				{
 					"Author":	"Bjørn",
-					"Quote":	"The surface of venus is hot enough to melt lead."
+					"Quote":	"The OMG particle was a cosmic ray with equivalent energy to a baseball going 94km/h."
+				},
+				{
+					"Author":	"Bjørn",
+					"Quote":	"In astrophysics there is a rule of thumb: However big you think a supernovae is, it is bigger."
+				},
+				{
+					"Author":	"Bjørn",
+					"Quote":	"In the time since pluto was discovered, it has yet to circle the sun once."
+				},
+			],
+			"electrics": [
+				{
+					"Author":	"Bjørn",
+					"Quote":	"Electricity moves between 50% and 99% the speed of light. Electrons however, moves much more slowly at <1% of lightspeed."
+				},
+				{
+					"Author":	"Bjørn",
+					"Quote":	"0.1A of electricity is lethal. An average outlet can provide 10A."
+				},
+				{
+					"Author":	"Bjørn",
+					"Quote":	"An electron weighs 10^-18 g. Given this, all the data on the internet weighs 50 grams."
 				},
 			]
 		}
