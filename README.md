@@ -2,11 +2,12 @@
 Quote/funfact api for Quotation Station
 
 ## Local setup
-To setup this project you need to first create a virtual environment named `env`. Keep in mind that this api uses python 3.7 and might not work with other versions. Also, this is a guide for setting up the api on a windows machine.
 
 First, navigate to the folder containing the api.py file using the command line. Then, activate the environment contained in the `env` folder:
 
 `env\scripts\activate.bat`
+
+Make sure you have installed a version f python that is compatible with `venv` before activating. This project uses python 3.7, so I highly recommend installing this version.
 
 Next, you need to install the project dependencies. This can be done using the following command:
 
