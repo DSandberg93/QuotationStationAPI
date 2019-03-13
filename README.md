@@ -11,7 +11,7 @@ Make sure you have installed a version f python that is compatible with `venv` b
 
 Next, you need to install the project dependencies. This can be done using the following command:
 
-`pip install -r requirements.txt`
+`pip install -r requirements.txt`   (You may need to use `pip3` instead of `pip`)
 
 Congratulations! You completed the setup and are ready to run the api.
 
