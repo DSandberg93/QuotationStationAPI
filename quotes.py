@@ -17231,17 +17231,17 @@ quotes = {
 			"below15": [
 				{
 					"author":	"below15",
-					"value":	"When we breathe out smoke when it is cold outside, it is caused by the vater vapour we exhale condensing in the cold air." #
+					"value":	"When we breathe out smoke when it is cold outside, it is caused by the vater vapour we exhale condensing in the cold air." 
 				},
 				{
 					"author":	"below15",
-					"value":	"Ojmjakon is the coldest inhabited place on earth with a average temperature of -51 degrees celsius in january." #
+					"value":	"Ojmjakon is the coldest inhabited place on earth with a average temperature of -51 degrees celsius in january." 
 				},
 			],
 			"above15": [
 				{
 					"author":	"above15",
-					"value":	"The hottest period of the day in Norway is often between 15 and 18 in the afternoon." #
+					"value":	"The hottest period of the day in Norway is often between 15 and 18 in the afternoon." 
 				},
 			],
 		},
@@ -17249,13 +17249,13 @@ quotes = {
 			"below10mps": [
 				{
 					"author":	"below10mps",
-					"value":	"Ridge A on the Antarctic plateu is the calmest place on earth. It is possibly best place for astronomical observations, as a observatory in this location could produce pictures of the same quality as the Hubble telescope."#
+					"value":	"Ridge A on the Antarctic plateu is the calmest place on earth. It is possibly best place for astronomical observations, as a observatory in this location could produce pictures of the same quality as the Hubble telescope."
 				},
 			],
 			"above10mps": [
 				{
 					"author":	"above10mps",
-					"value":	"As long as the air temperature is lower than your body temparature, you loose heat to the air. Wind makes it feel colder because the heated air surrounding your body is replaced with new, cold air, which increases heat loss." #
+					"value":	"As long as the air temperature is lower than your body temparature, you loose heat to the air. Wind makes it feel colder because the heated air surrounding your body is replaced with new, cold air, which increases heat loss."
 				},
 			],
 		},
@@ -17263,31 +17263,31 @@ quotes = {
 			"none": [
 				{
 					"author":	"none",
-					"value":	"In some places in Antarctica, there have not been any downpour in over 2 million years." #
+					"value":	"In some places in Antarctica, there have not been any downpour in over 2 million years." 
 				},
 				{
 					"author":	"none",
-					"value":	"Desserts cover on third of the earths surface, and the Arctic and Antarctic is the cover the major part of these areas." #
+					"value":	"Desserts cover on third of the earths surface, and the Arctic and Antarctic is the cover the major part of these areas." 
 				},
 			],
 			"rain": [
 				{
 					"author":	"rain",
-					"value":	"Gray and dirty snow which is usually found in cities, melts faster because of the darker color which absorbs more energy from the sunlight." #
+					"value":	"Gray and dirty snow which is usually found in cities, melts faster because of the darker color which absorbs more energy from the sunlight." 
 				},
 				{
 					"author":	"rain",
-					"value":	"It is easier to get sunburnt when there is snow outside because you receive sunlight both from the sun and from reflections on the snow." #
+					"value":	"It is easier to get sunburnt when there is snow outside because you receive sunlight both from the sun and from reflections on the snow." 
 				},
 			],
 			"snow": [
 				{
 					"author":	"snow",
-					"value":	"Raindrops are not tearshaped as many believe, but resembles more a jellybean." #
+					"value":	"Raindrops are not tearshaped as many believe, but resembles more a jellybean." 
 				},
 				{
 					"author":	"snow",
-					"value":	"The Jet stream is transports rain to Norway through something called 'athmospherical rivers'. The rivers transfers water vapour towards a lower pressure in the north." #
+					"value":	"The Jet stream is transports rain to Norway through something called 'athmospherical rivers'. The rivers transfers water vapour towards a lower pressure in the north." 
 				},
 			]
 		},
@@ -17311,11 +17311,11 @@ quotes = {
 			"bio": [
 				{
 					"author":	"Idun",
-					"value":	"A boy that is colorblind has inherited it from his mother because the gene for colorblindness lays on the X-cromosome." #
+					"value":	"A boy that is colorblind has inherited it from his mother because the gene for colorblindness lays on the X-cromosome." 
 				},
 				{
 					"author":	"Idun",
-					"value":	"Humans and chimpansees share 98.8% of their DNA." #
+					"value":	"Humans and chimpansees share 98.8% of their DNA." 
 				},
 				{
 					"author":	"Idun",
@@ -17323,17 +17323,17 @@ quotes = {
 				},
 				{
 					"author":	"Idun",
-					"value":	"Humans have more bacterial cells, than own cells. Many of these are important for the functions of the body." #
+					"value":	"Humans have more bacterial cells, than own cells. Many of these are important for the functions of the body." 
 				},
 				{
 					"author":	"Idun",
-					"value":	"The mitochondria has its own set of DNA and can only be inherited from your mother. "#
+					"value":	"The mitochondria has its own set of DNA and can only be inherited from your mother. "
 				},
 			],
 			"chem": [
 				{
 					"author":	"Idun",
-					"value":	"One of the first scientists that managed to isolate the toxin cyanide tasted it and according to him it tastes like almond oil." #
+					"value":	"One of the first scientists that managed to isolate the toxin cyanide tasted it and according to him it tastes like almond oil." 
 				},
 			],
 		},
@@ -17357,7 +17357,7 @@ quotes = {
 				},
 				{
 					"author":	"Bjørn",
-					"value":	"The Oh-My-God particle was a cosmic ray with equivalent energy to a baseball going 94km/h." #
+					"value":	"The Oh-My-God particle was a cosmic ray with equivalent energy to a baseball going 94km/h." 
 				},
 				{
 					"author":	"Bjørn",
