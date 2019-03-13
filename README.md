@@ -1,2 +1,2 @@
-# quote-funfact-api
-A quote/funfact api for a school project
+# Quotation Station API
+Quote/funfact api for Quotation Station
