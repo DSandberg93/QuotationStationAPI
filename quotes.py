@@ -128,10 +128,6 @@ quotes = {
 			"value"  : "One man with courage makes a majority."
 		},
 		{
-			"author" : "Loretta Young",
-			"value"  : "I'm grateful to God for His bountiful gifts... He gave me courage and faith in myself."
-		},
-		{
 			"author" : "Thucydides",
 			"value"  : "The secret to happiness is freedom... And the secret to freedom is courage."
 		},
@@ -246,10 +242,6 @@ quotes = {
 		{
 			"author" : "Billy Graham",
 			"value"  : "Believers, look up - take courage. The angels are nearer than you think."
-		},
-		{
-			"author" : "Chester W. Nimitz",
-			"value"  : "God grant me the courage not to give up what I think is right even though I think it is hopeless."
 		},
 		{
 			"author" : "Robert Louis Stevenson",
@@ -388,10 +380,6 @@ quotes = {
 			"value"  : "The more wit the less courage."
 		},
 		{
-			"author" : "Thomas S. Monson",
-			"value"  : "Courage, not compromise, brings the smile of God's approval."
-		},
-		{
 			"author" : "Jim Davis",
 			"value"  : "Way down deep, we're all motivated by the same urges. Cats have the courage to live by them."
 		},
@@ -420,10 +408,6 @@ quotes = {
 			"value"  : "Religion in its humility restores man to his only dignity, the courage to live by grace."
 		},
 		{
-			"author" : "Charles Stanley",
-			"value"  : "When God speaks, oftentimes His voice will call for an act of courage on our part."
-		},
-		{
 			"author" : "Oliver Wendell Holmes",
 			"value"  : "Have the courage to act instead of react."
 		},
@@ -442,10 +426,6 @@ quotes = {
 		{
 			"author" : "William Congreve",
 			"value"  : "There is in true beauty, as in courage, something which narrow souls cannot dare to admire."
-		},
-		{
-			"author" : "Charles Stanley",
-			"value"  : "You have to have courage to be obedient to God."
 		},
 		{
 			"author" : "J. D. Salinger",
@@ -628,10 +608,6 @@ quotes = {
 			"value"  : "On sensitive issues, talk isn't cheap - it takes real courage to pry open topics nailed shut."
 		},
 		{
-			"author" : "Jean Anouilh",
-			"value"  : "Men create real miracles when they use their God-given courage and intelligence."
-		},
-		{
 			"author" : "Elia Kazan",
 			"value"  : "I want to thank the Academy for its courage and generosity."
 		},
@@ -806,10 +782,6 @@ quotes = {
 		{
 			"author" : "James Thomson",
 			"value"  : "More firm and sure the hand of courage strikes, when it obeys the watchful eye of caution."
-		},
-		{
-			"author" : "Peter Fonda",
-			"value"  : "The word courage - God, I love that word. Words are so important to me."
 		},
 		{
 			"author" : "Channing Pollock",
@@ -1172,10 +1144,6 @@ quotes = {
 		{
 			"author" : "Eva Green",
 			"value"  : "I am a dreamer. Seriously, I'm living on another planet."
-		},
-		{
-			"author" : "Elizabeth Barrett Browning",
-			"value"  : "God's gifts put man's best dreams to shame."
 		},
 		{
 			"author" : "Joseph Conrad",
@@ -1562,10 +1530,6 @@ quotes = {
 			"value"  : "I think when you move past your fear and you go after your dreams wholeheartedly, you become free."
 		},
 		{
-			"author" : "Benjamin Carson",
-			"value"  : "Through hard work, perseverance and a faith in God, you can live your dreams."
-		},
-		{
 			"author" : "Langston Hughes",
 			"value"  : "Hold fast to dreams For when dreams go Life is a barren field Frozen with snow."
 		},
@@ -1656,10 +1620,6 @@ quotes = {
 		{
 			"author" : "Dave Matthews",
 			"value"  : "Take what you can from your dreams, make them as real as anything."
-		},
-		{
-			"author" : "Jean Rostand",
-			"value"  : "God, that dumping ground of our dreams."
 		},
 		{
 			"author" : "Manuel Puig",
@@ -1928,10 +1888,6 @@ quotes = {
 		{
 			"author" : "Michael Zaslow",
 			"value"  : "Maybe the body learns from dreams. Maybe the muscles, the neutrons, revitalize."
-		},
-		{
-			"author" : "Martha Reeves",
-			"value"  : "I still marvel at how God turns dreams into reality."
 		},
 		{
 			"author" : "Martha Reeves",
@@ -2522,10 +2478,6 @@ quotes = {
 			"value"  : "Go to Heaven for the climate, Hell for the company."
 		},
 		{
-			"author" : "Benjamin Franklin",
-			"value"  : "Wine is constant proof that God loves us and loves to see us happy."
-		},
-		{
 			"author" : "George Bernard Shaw",
 			"value"  : "A government that robs Peter to pay Paul can always depend on the support of Paul."
 		},
@@ -2866,10 +2818,6 @@ quotes = {
 			"value"  : "There are lots of people who mistake their imagination for their memory."
 		},
 		{
-			"author" : "P. J. O'Rourke",
-			"value"  : "Cleanliness becomes more important when godliness is unlikely."
-		},
-		{
 			"author" : "David Lee Roth",
 			"value"  : "I used to jog but the ice cubes kept falling out of my glass."
 		},
@@ -2974,10 +2922,6 @@ quotes = {
 			"value"  : "A lot of baby boomers are baby bongers."
 		},
 		{
-			"author" : "Jane Wagner",
-			"value"  : "When we talk to God, we're praying. When God talks to us, we're schizophrenic."
-		},
-		{
 			"author" : "Voltaire",
 			"value"  : "The superfluous, a very necessary thing."
 		},
@@ -3032,10 +2976,6 @@ quotes = {
 		{
 			"author" : "H. G. Wells",
 			"value"  : "Every time I see an adult on a bicycle, I no longer despair for the future of the human race."
-		},
-		{
-			"author" : "Joan Rivers",
-			"value"  : "If God wanted us to bend over he'd put diamonds on the floor."
 		},
 		{
 			"author" : "H. L. Mencken",
@@ -3294,10 +3234,6 @@ quotes = {
 			"value"  : "The digital camera is a great invention because it allows us to reminisce. Instantly."
 		},
 		{
-			"author" : "Mel Brooks",
-			"value"  : "If God wanted us to fly, He would have given us tickets."
-		},
-		{
 			"author" : "Josh Billings",
 			"value"  : "Flattery is like cologne water, to be smelt, not swallowed."
 		},
@@ -3332,10 +3268,6 @@ quotes = {
 		{
 			"author" : "Mike Myers",
 			"value"  : "My theory is that all of Scottish cuisine is based on a dare."
-		},
-		{
-			"author" : "Naguib Mahfouz",
-			"value"  : "God did not intend religion to be an exercise club."
 		},
 		{
 			"author" : "Margaret Smith",
@@ -3584,10 +3516,6 @@ quotes = {
 		{
 			"author" : "Caroline Rhea",
 			"value"  : "Someone told me that when they go to Vermont, they feel like they're home. I'm that way at Saks."
-		},
-		{
-			"author" : "Bill Cosby",
-			"value"  : "There is hope for the future because God has a sense of humor and we are funny to God."
 		},
 		{
 			"author" : "Dr. Seuss",
@@ -4572,10 +4500,6 @@ quotes = {
 			"value"  : "Good friends, good books and a sleepy conscience: this is the ideal life."
 		},
 		{
-			"author" : "Albert Einstein",
-			"value"  : "I do not believe in the God of theology who rewards good and punishes evil."
-		},
-		{
 			"author" : "Abraham Lincoln",
 			"value"  : "No man is good enough to govern another man without the other's consent."
 		},
@@ -4590,10 +4514,6 @@ quotes = {
 		{
 			"author" : "Buddha",
 			"value"  : "Virtue is persecuted more by the wicked than it is loved by the good."
-		},
-		{
-			"author" : "Socrates",
-			"value"  : "Our prayers should be for blessings in general, for God knows best what is good for us."
 		},
 		{
 			"author" : "Dalai Lama",
@@ -4896,10 +4816,6 @@ quotes = {
 			"value"  : "Many foxes grow gray but few grow good."
 		},
 		{
-			"author" : "Plato",
-			"value"  : "Love is the joy of the good, the wonder of the wise, the amazement of the Gods."
-		},
-		{
 			"author" : "Ralph Waldo Emerson",
 			"value"  : "A good indignation brings out all one's powers."
 		},
@@ -4942,10 +4858,6 @@ quotes = {
 		{
 			"author" : "Ralph Waldo Emerson",
 			"value"  : "Friendship, like the immortality of the soul, is too good to be believed."
-		},
-		{
-			"author" : "Lao Tzu",
-			"value"  : "I do not concern myself with gods and spirits either good or evil nor do I serve any."
 		},
 		{
 			"author" : "Ralph Waldo Emerson",
@@ -5010,10 +4922,6 @@ quotes = {
 		{
 			"author" : "Friedrich Nietzsche",
 			"value"  : "Whoever does not have a good father should procure one."
-		},
-		{
-			"author" : "Walt Whitman",
-			"value"  : "I am as bad as the worst, but, thank God, I am as good as the best."
 		},
 		{
 			"author" : "Friedrich Nietzsche",
@@ -5141,10 +5049,6 @@ quotes = {
 		},
 		{
 			"author" : "Elbert Hubbard",
-			"value"  : "The highest reward that God gives us for good work is the ability to do better work."
-		},
-		{
-			"author" : "Elbert Hubbard",
 			"value"  : "A man is as good as he has to be, and a woman as bad as she dares."
 		},
 		{
@@ -5244,10 +5148,6 @@ quotes = {
 			"value"  : "We are all here for a spell, get all the good laughs you can."
 		},
 		{
-			"author" : "Garrison Keillor",
-			"value"  : "Thank you, God, for this good life and forgive us if we do not love it enough."
-		},
-		{
 			"author" : "Henry Ford",
 			"value"  : "A market is never saturated with a good product, but it is very quickly saturated with a bad one."
 		},
@@ -5302,10 +5202,6 @@ quotes = {
 		{
 			"author" : "Plato",
 			"value"  : "For good nurture and education implant good constitutions."
-		},
-		{
-			"author" : "Plato",
-			"value"  : "Truth is the beginning of every good to the gods, and of every good to man."
 		},
 		{
 			"author" : "Plato",
@@ -5416,10 +5312,6 @@ quotes = {
 			"value"  : "In this country it is a good thing to kill an admiral from time to time to encourage the others."
 		},
 		{
-			"author" : "Joel Osteen",
-			"value"  : "My message is that God is a good God."
-		},
-		{
 			"author" : "Johann Wolfgang von Goethe",
 			"value"  : "Go to foreign countries and you will get to know the good things one possesses at home."
 		},
@@ -5516,10 +5408,6 @@ quotes = {
 			"value"  : "Well, well, Henry James is pretty good, though he is of the nineteenth century, and that glaringly."
 		},
 		{
-			"author" : "Thomas Paine",
-			"value"  : "It is not a God, just and good, but a devil, under the name of God, that the Bible describes."
-		},
-		{
 			"author" : "Chief Joseph",
 			"value"  : "It makes my heart sick when I remember all the good words and the broken promises."
 		},
@@ -5554,10 +5442,6 @@ quotes = {
 		{
 			"author" : "Guy Kawasaki",
 			"value"  : "A good idea is about ten percent and implementation and hard work, and luck is 90 percent."
-		},
-		{
-			"author" : "Dick Gregory",
-			"value"  : "When you have a good mother and no father, God kind of sits in. It's not enough, but it helps."
 		},
 		{
 			"author" : "H. L. Mencken",
@@ -5738,10 +5622,6 @@ quotes = {
 		{
 			"author" : "Rene Descartes",
 			"value"  : "The reading of all good books is like a conversation with the finest minds of past centuries."
-		},
-		{
-			"author" : "Dwight L. Moody",
-			"value"  : "God never made a promise that was too good to be true."
 		},
 		{
 			"author" : "Louisa May Alcott",
@@ -5968,10 +5848,6 @@ quotes = {
 			"value"  : "Do I think faith will be an important part of being a good president? Yes, I do."
 		},
 		{
-			"author" : "Saint Augustine",
-			"value"  : "God judged it better to bring good out of evil than to suffer no evil to exist."
-		},
-		{
 			"author" : "Publilius Syrus",
 			"value"  : "A good reputation is more valuable than money."
 		},
@@ -6010,10 +5886,6 @@ quotes = {
 		{
 			"author" : "Frank Zappa",
 			"value"  : "All the good music has already been written by people with wigs and stuff."
-		},
-		{
-			"author" : "Walt Whitman",
-			"value"  : "I may be as bad as the worst, but, thank God, I am as good as the best."
 		},
 		{
 			"author" : "Joseph Stalin",
@@ -6374,16 +6246,8 @@ quotes = {
 			"value"  : "I am a kind of paranoid in reverse. I suspect people of plotting to make me happy."
 		},
 		{
-			"author" : "Blaise Pascal",
-			"value"  : "Happiness is neither without us nor within us. It is in God, both without us and within us."
-		},
-		{
 			"author" : "Baltasar Gracian",
 			"value"  : "Always leave something to wish for otherwise you will be miserable from your very happiness."
-		},
-		{
-			"author" : "Immanuel Kant",
-			"value"  : "It is not God's will merely that we should be happy, but that we should make ourselves happy."
 		},
 		{
 			"author" : "Malcolm Forbes",
@@ -6430,10 +6294,6 @@ quotes = {
 			"value"  : "It's pretty hard to tell what does bring happiness poverty and wealth have both failed."
 		},
 		{
-			"author" : "Euripides",
-			"value"  : "Happiness is brief. It will not stay. God batters at its sails."
-		},
-		{
 			"author" : "David Lee Roth",
 			"value"  : "Money can't buy you happiness, but it can buy you a yacht big enough to pull up right alongside it."
 		},
@@ -6460,10 +6320,6 @@ quotes = {
 		{
 			"author" : "Sophocles",
 			"value"  : "Our happiness depends on wisdom all the way."
-		},
-		{
-			"author" : "David Brainerd",
-			"value"  : "If you hope for happiness in the world, hope for it from God, and not from the world."
 		},
 		{
 			"author" : "Julian Casablancas",
@@ -7052,10 +6908,6 @@ quotes = {
 		{
 			"author" : "William Cowper",
 			"value"  : "Thus happiness depends, as nature shows, less on exterior things than most suppose."
-		},
-		{
-			"author" : "Red Skelton",
-			"value"  : "God's children and their happiness are my reasons for being."
 		},
 		{
 			"author" : "Douglas Horton",
@@ -7726,10 +7578,6 @@ quotes = {
 			"value"  : "We are selling dreams. We are merchants of happiness."
 		},
 		{
-			"author" : "Lucan",
-			"value"  : "The gods conceal from men the happiness of death, that they may endure life."
-		},
-		{
 			"author" : "Antonio Gala",
 			"value"  : "Happiness is realizing that nothing is too important."
 		},
@@ -7848,10 +7696,6 @@ quotes = {
 			"value"  : "Hope springs eternal in the human breast: Man never is, but always To be Blest."
 		},
 		{
-			"author" : "Chester W. Nimitz",
-			"value"  : "God grant me the courage not to give up what I think is right even though I think it is hopeless."
-		},
-		{
 			"author" : "Marcus Garvey",
 			"value"  : "Chance has never yet satisfied the hope of a suffering people."
 		},
@@ -7932,10 +7776,6 @@ quotes = {
 			"value"  : "Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us."
 		},
 		{
-			"author" : "Elie Wiesel",
-			"value"  : "Hope is like peace. It is not a gift from God. It is a gift only we can give one another."
-		},
-		{
 			"author" : "Lillian Hellman",
 			"value"  : "Things start out as hopes and end up as habits."
 		},
@@ -8002,10 +7842,6 @@ quotes = {
 		{
 			"author" : "George Chakiris",
 			"value"  : "No matter how dark the moment, love and hope are always possible."
-		},
-		{
-			"author" : "Bill Cosby",
-			"value"  : "There is hope for the future because God has a sense of humor and we are funny to God."
 		},
 		{
 			"author" : "Thomas Carlyle",
@@ -8080,16 +7916,8 @@ quotes = {
 			"value"  : "Hope is the pillar that holds up the world. Hope is the dream of a waking man."
 		},
 		{
-			"author" : "Billy Graham",
-			"value"  : "God's mercy and grace give me hope - for myself, and for our world."
-		},
-		{
 			"author" : "Niccolo Machiavelli",
 			"value"  : "War is just when it is necessary arms are permissible when there is no hope except in arms."
-		},
-		{
-			"author" : "Victor Hugo",
-			"value"  : "Hope is the word which God has written on the brow of every man."
 		},
 		{
 			"author" : "Thomas Carlyle",
@@ -8154,10 +7982,6 @@ quotes = {
 		{
 			"author" : "Niels Bohr",
 			"value"  : "How wonderful that we have met with a paradox. Now we have some hope of making progress."
-		},
-		{
-			"author" : "James Russell Lowell",
-			"value"  : "Children are God's Apostles, sent forth, day by day, to preach of love, and hope, and peace."
 		},
 		{
 			"author" : "Robert Green Ingersoll",
@@ -8236,16 +8060,8 @@ quotes = {
 			"value"  : "I hope I didn't bore you too much with my life story."
 		},
 		{
-			"author" : "Aaliyah",
-			"value"  : "All I can do is leave it in God's hands and hope that my fans feel where I'm coming from."
-		},
-		{
 			"author" : "William Wordsworth",
 			"value"  : "Not without hope we suffer and we mourn."
-		},
-		{
-			"author" : "Paul Tillich",
-			"value"  : "I hope for the day when everyone can speak again of God without embarrassment."
 		},
 		{
 			"author" : "Anne Lamott",
@@ -8262,10 +8078,6 @@ quotes = {
 		{
 			"author" : "Immanuel Kant",
 			"value"  : "What can I know? What ought I to do? What can I hope?"
-		},
-		{
-			"author" : "David Brainerd",
-			"value"  : "If you hope for happiness in the world, hope for it from God, and not from the world."
 		},
 		{
 			"author" : "Margaret Weis",
@@ -8542,10 +8354,6 @@ quotes = {
 		{
 			"author" : "Christina Ricci",
 			"value"  : "I certainly hope I'm not still answering child-star questions by the time I reach menopause."
-		},
-		{
-			"author" : "Mahalia Jackson",
-			"value"  : "I hope to bring people to God with my songs."
 		},
 		{
 			"author" : "Diablo Cody",
@@ -8888,10 +8696,6 @@ quotes = {
 			"value"  : "Hope is a risk that must be run."
 		},
 		{
-			"author" : "Ben Kingsley",
-			"value"  : "I try and reduce myself to an almost blank slate and hope to God that I am creative."
-		},
-		{
 			"author" : "Alexander Payne",
 			"value"  : "I don't feel despair because I am able to make the films I want to make, and that gives me hope."
 		},
@@ -9094,10 +8898,6 @@ quotes = {
 			"value"  : "The secret to humor is surprise."
 		},
 		{
-			"author" : "Bill Cosby",
-			"value"  : "There is hope for the future because God has a sense of humor and we are funny to God."
-		},
-		{
 			"author" : "Erma Bombeck",
 			"value"  : "When humor goes, there goes civilization."
 		},
@@ -9228,10 +9028,6 @@ quotes = {
 		{
 			"author" : "Edward Albee",
 			"value"  : "I have a fine sense of the ridiculous, but no sense of humor."
-		},
-		{
-			"author" : "Agnes Repplier",
-			"value"  : "Humor distorts nothing, and only false gods are laughed off their earthly pedestals."
 		},
 		{
 			"author" : "Edward de Bono",
@@ -9470,10 +9266,6 @@ quotes = {
 			"value"  : "My life is part humor, part roses, part thorns."
 		},
 		{
-			"author" : "Vera Farmiga",
-			"value"  : "I think God gave us senses of humor, and we should use them."
-		},
-		{
 			"author" : "Kathy Griffin",
 			"value"  : "A lot of stars don't have a sense of humor."
 		},
@@ -9550,10 +9342,6 @@ quotes = {
 			"value"  : "I just am a snob when it comes to humor."
 		},
 		{
-			"author" : "Maureen O'Hara",
-			"value"  : "God has a most wicked sense of humor."
-		},
-		{
 			"author" : "Calvin Trillin",
 			"value"  : "There's always a source for humor."
 		},
@@ -9576,10 +9364,6 @@ quotes = {
 		{
 			"author" : "Umberto Eco",
 			"value"  : "The comic is the perception of the opposite humor is the feeling of it."
-		},
-		{
-			"author" : "Rainn Wilson",
-			"value"  : "I think God has a tremendous sense of humor."
 		},
 		{
 			"author" : "Thomas Browne",
@@ -10016,10 +9800,6 @@ quotes = {
 			"value"  : "Your present circumstances don't determine where you can go they merely determine where you start."
 		},
 		{
-			"author" : "Jim Elliot",
-			"value"  : "God always gives His best to those who leave the choice with him."
-		},
-		{
 			"author" : "Norman Vincent Peale",
 			"value"  : "Change your thoughts and you change your world."
 		},
@@ -10084,10 +9864,6 @@ quotes = {
 			"value"  : "It is always the simple that produces the marvelous."
 		},
 		{
-			"author" : "Arthur Young",
-			"value"  : "God sleeps in the minerals, awakens in plants, walks in animals, and thinks in man."
-		},
-		{
 			"author" : "Babe Ruth",
 			"value"  : "Don't let the fear of striking out hold you back."
 		},
@@ -10138,10 +9914,6 @@ quotes = {
 		{
 			"author" : "Plato",
 			"value"  : "Thinking: the talking of the soul with itself."
-		},
-		{
-			"author" : "Alan Watts",
-			"value"  : "You don't look out there for God, something in the sky, you look in you."
 		},
 		{
 			"author" : "Tony Robbins",
@@ -10220,10 +9992,6 @@ quotes = {
 			"value"  : "Faith is love taking the form of aspiration."
 		},
 		{
-			"author" : "Junipero Serra",
-			"value"  : "I pray God may preserve your health and life many years."
-		},
-		{
 			"author" : "Richard Bach",
 			"value"  : "The meaning I picked, the one that changed my life: Overcome fear, behold wonder."
 		},
@@ -10238,10 +10006,6 @@ quotes = {
 		{
 			"author" : "Benjamin Disraeli",
 			"value"  : "Nurture your minds with great thoughts. To believe in the heroic makes heroes."
-		},
-		{
-			"author" : "Pope Paul VI",
-			"value"  : "Of all human activities, man's listening to God is the supreme act of his reasoning and will."
 		},
 		{
 			"author" : "Blaise Pascal",
@@ -10408,10 +10172,6 @@ quotes = {
 		{
 			"author" : "Confucius",
 			"value"  : "Real knowledge is to know the extent of one's ignorance."
-		},
-		{
-			"author" : "William Shakespeare",
-			"value"  : "Ignorance is the curse of God knowledge is the wing wherewith we fly to heaven."
 		},
 		{
 			"author" : "Alan Alda",
@@ -10862,10 +10622,6 @@ quotes = {
 			"value"  : "I would like to take you seriously, but to do so would affront your intelligence."
 		},
 		{
-			"author" : "Alan Perlis",
-			"value"  : "A year spent in artificial intelligence is enough to make one believe in God."
-		},
-		{
 			"author" : "Bryant H. McGill",
 			"value"  : "Emotion is often what we rely upon to carry us across the unfathomable voids in our intelligence."
 		},
@@ -10992,10 +10748,6 @@ quotes = {
 		{
 			"author" : "Antonio Gramsci",
 			"value"  : "I'm a pessimist because of intelligence, but an optimist because of will."
-		},
-		{
-			"author" : "Jean Anouilh",
-			"value"  : "Men create real miracles when they use their God-given courage and intelligence."
 		},
 		{
 			"author" : "Raymond Chandler",
@@ -11190,10 +10942,6 @@ quotes = {
 			"value"  : "Intelligence is nothing without delight."
 		},
 		{
-			"author" : "James Clavell",
-			"value"  : "God gives us intelligence to uncover the wonders of nature. Without the gift, nothing is possible."
-		},
-		{
 			"author" : "James Hal Cone",
 			"value"  : "Truth knows no color it appeals to intelligence."
 		},
@@ -11294,10 +11042,6 @@ quotes = {
 		{
 			"author" : "Friedrich Nietzsche",
 			"value"  : "He who has a why to live can bear almost any how."
-		},
-		{
-			"author" : "Carl Sandburg",
-			"value"  : "A baby is God's opinion that life should go on."
 		},
 		{
 			"author" : "Buddha",
@@ -11896,10 +11640,6 @@ quotes = {
 			"value"  : "Imagination is everything. It is the preview of life's coming attractions."
 		},
 		{
-			"author" : "Voltaire",
-			"value"  : "God gave us the gift of life it is up to us to give ourselves the gift of living well."
-		},
-		{
 			"author" : "Buddha",
 			"value"  : "Just as a candle cannot burn without fire, men cannot live without a spiritual life."
 		},
@@ -12048,10 +11788,6 @@ quotes = {
 			"value"  : "Life is as tedious as twice-told tale, vexing the dull ear of a drowsy man."
 		},
 		{
-			"author" : "Thomas Jefferson",
-			"value"  : "The God who gave us life, gave us liberty at the same time."
-		},
-		{
 			"author" : "Theodore Roosevelt",
 			"value"  : "Far and away the best prize that life has to offer is the chance to work hard at work worth doing."
 		},
@@ -12102,10 +11838,6 @@ quotes = {
 		{
 			"author" : "Helen Keller",
 			"value"  : "Life is an exciting business, and most exciting when it is lived for others."
-		},
-		{
-			"author" : "Muhammad Ali",
-			"value"  : "We have one life it soon will be past what we do for God is all that will last."
 		},
 		{
 			"author" : "Katharine Hepburn",
@@ -12560,16 +12292,8 @@ quotes = {
 			"value"  : "If I had to live my life again, I'd make the same mistakes, only sooner."
 		},
 		{
-			"author" : "Socrates",
-			"value"  : "The end of life is to be like God, and the soul following God will be like Him."
-		},
-		{
 			"author" : "Jim Henson",
 			"value"  : "Life's like a movie, write your own ending. Keep believing, keep pretending."
-		},
-		{
-			"author" : "Swami Vivekananda",
-			"value"  : "God is to be worshipped as the one beloved, dearer than everything in this and next life."
 		},
 		{
 			"author" : "Lewis Carroll",
@@ -12756,10 +12480,6 @@ quotes = {
 			"value"  : "So if you stay ready, you ain't gotta get ready, and that is how I run my life."
 		},
 		{
-			"author" : "Napoleon Bonaparte",
-			"value"  : "If I had to choose a religion, the sun as the universal giver of life would be my god."
-		},
-		{
 			"author" : "Jimi Hendrix",
 			"value"  : "My goal is to be one with the music. I just dedicate my whole life to this art."
 		},
@@ -12838,10 +12558,6 @@ quotes = {
 		{
 			"author" : "Charles R. Swindoll",
 			"value"  : "Life is 10% what happens to you and 90% how you react to it."
-		},
-		{
-			"author" : "Rick Warren",
-			"value"  : "You were made by God and for God, and until you understand that, life will never make sense."
 		},
 		{
 			"author" : "Leo Tolstoy",
@@ -12942,10 +12658,6 @@ quotes = {
 		{
 			"author" : "Mitch Hedberg",
 			"value"  : "I'm a heroine addict. I need to have sex with women who have saved someone's life."
-		},
-		{
-			"author" : "Garrison Keillor",
-			"value"  : "Thank you, God, for this good life and forgive us if we do not love it enough."
 		},
 		{
 			"author" : "Johann Wolfgang von Goethe",
@@ -13092,10 +12804,6 @@ quotes = {
 		{
 			"author" : "Jim Rohn",
 			"value"  : "If you don't like how things are, change it! You're not a tree."
-		},
-		{
-			"author" : "Leo Buscaglia",
-			"value"  : "Your talent is God's gift to you. What you do with it is your gift back to God."
 		},
 		{
 			"author" : "Robert H. Schuller",
@@ -13366,10 +13074,6 @@ quotes = {
 		{
 			"author" : "Alexander Pope",
 			"value"  : "The most positive men are the most credulous."
-		},
-		{
-			"author" : "Edwin Louis Cole",
-			"value"  : "God never ends anything on a negative God always ends on a positive."
 		},
 		{
 			"author" : "Louis C. K.",
@@ -13876,10 +13580,6 @@ quotes = {
 			"value"  : "College was especially sweet because of the positive, hopeful atmosphere of a college campus."
 		},
 		{
-			"author" : "Ving Rhames",
-			"value"  : "Since God is the foundation of my life, anything that streams from that can only be positive."
-		},
-		{
 			"author" : "Nigel Rees",
 			"value"  : "You wish to put a positive construction on your deeds and words."
 		},
@@ -13970,10 +13670,6 @@ quotes = {
 			"value"  : "Wear a smile and have friends wear a scowl and have wrinkles."
 		},
 		{
-			"author" : "Desmond Tutu",
-			"value"  : "But God can only smile because only God can know what is coming next."
-		},
-		{
 			"author" : "Kin Hubbard",
 			"value"  : "If you haven't seen your wife smile at a traffic cop, you haven't seen her smile her prettiest."
 		},
@@ -13988,10 +13684,6 @@ quotes = {
 		{
 			"author" : "Ella Wheeler Wilcox",
 			"value"  : "And the smile that is worth the praises of earth is the smile that shines through tears."
-		},
-		{
-			"author" : "Thomas S. Monson",
-			"value"  : "Courage, not compromise, brings the smile of God's approval."
 		},
 		{
 			"author" : "Washington Irving",
@@ -14116,10 +13808,6 @@ quotes = {
 		{
 			"author" : "Les Brown",
 			"value"  : "Your smile will give you a positive countenance that will make people feel comfortable around you."
-		},
-		{
-			"author" : "Josh Billings",
-			"value"  : "Marrying for love may be a bit risky, but it is so honest that God can't help but smile on it."
 		},
 		{
 			"author" : "John Ray",
@@ -14332,10 +14020,6 @@ quotes = {
 		{
 			"author" : "Connie Stevens",
 			"value"  : "Nothing you wear is more important than your smile."
-		},
-		{
-			"author" : "John Greenleaf Whittier",
-			"value"  : "The smile of God is victory."
 		},
 		{
 			"author" : "Jesse McCartney",
@@ -15288,10 +14972,6 @@ quotes = {
 			"value"  : "Success is only meaningful and enjoyable if it feels like your own."
 		},
 		{
-			"author" : "Charlotte Bronte",
-			"value"  : "Men judge us by the success of our efforts. God looks at the efforts themselves."
-		},
-		{
 			"author" : "Bodhidharma",
 			"value"  : "But while success and failure depend on conditions, the mind neither waxes nor wanes."
 		},
@@ -15596,10 +15276,6 @@ quotes = {
 			"value"  : "I want to swim in both directions at once. Desire success, court failure."
 		},
 		{
-			"author" : "Oliver Wendell Holmes, Jr.",
-			"value"  : "Young man, the secret of my success is that an early age I discovered that I was not God."
-		},
-		{
 			"author" : "Joey Adams",
 			"value"  : "Rockefeller once explained the secret of success. 'Get up early, work late - and strike oil.'"
 		},
@@ -15708,10 +15384,6 @@ quotes = {
 			"value"  : "Anytime you play a team sport, the success of the team really makes everything better. It's nice."
 		},
 		{
-			"author" : "Abu Bakar Bashir",
-			"value"  : "Muslims must believe that all power, success and victory comes from God alone."
-		},
-		{
 			"author" : "Jennifer Lopez",
 			"value"  : "Once you have a lot of success, you become a target in many ways."
 		},
@@ -15790,10 +15462,6 @@ quotes = {
 		{
 			"author" : "Rand Paul",
 			"value"  : "In America, as opposed to the old country, success was based on merit."
-		},
-		{
-			"author" : "Herodotus",
-			"value"  : "But I like not these great success of yours for I know how jealous are the gods."
 		},
 		{
 			"author" : "Adam Carolla",
@@ -16130,10 +15798,6 @@ quotes = {
 			"value"  : "Trust your hunches. They're usually based on facts filed away just below the conscious level."
 		},
 		{
-			"author" : "Corrie Ten Boom",
-			"value"  : "Never be afraid to trust an unknown future to a known God."
-		},
-		{
 			"author" : "Johann Wolfgang von Goethe",
 			"value"  : "Trust yourself, then you will know how to live."
 		},
@@ -16230,10 +15894,6 @@ quotes = {
 			"value"  : "Trust no friend without faults, and love a woman, but no angel."
 		},
 		{
-			"author" : "Emmeline Pankhurst",
-			"value"  : "Trust in God - she will provide."
-		},
-		{
 			"author" : "Benjamin Spock",
 			"value"  : "Trust yourself, you know more than you think you do."
 		},
@@ -16248,10 +15908,6 @@ quotes = {
 		{
 			"author" : "Frances McDormand",
 			"value"  : "I never trusted good-looking boys."
-		},
-		{
-			"author" : "David Wilkerson",
-			"value"  : "In these times, God's people must trust him for rest of body and soul."
 		},
 		{
 			"author" : "Ryan Stiles",
@@ -16288,10 +15944,6 @@ quotes = {
 		{
 			"author" : "Wilma Mankiller",
 			"value"  : "We must trust our own thinking. Trust where we're going. And get the job done."
-		},
-		{
-			"author" : "Lawrence Welk",
-			"value"  : "Never trust anyone completely but God. Love people, but put your full trust only in God."
 		},
 		{
 			"author" : "Ernest Hemingway",
@@ -16340,10 +15992,6 @@ quotes = {
 		{
 			"author" : "Marilyn Monroe",
 			"value"  : "The 'public' scares me, but people I trust."
-		},
-		{
-			"author" : "Jesus Christ",
-			"value"  : "Do not let your hearts be troubled. Trust in God trust also in me."
 		},
 		{
 			"author" : "Robert Mugabe",
@@ -16556,10 +16204,6 @@ quotes = {
 		{
 			"author" : "Dennis Rodman",
 			"value"  : "I don't trust what this life has given me."
-		},
-		{
-			"author" : "Oliver Cromwell",
-			"value"  : "Put your trust in God but be sure to keep your powder dry."
 		},
 		{
 			"author" : "David Byrne",
@@ -16934,10 +16578,6 @@ quotes = {
 			"value"  : "Feeding is a very important ritual for me. I don't trust people who don't like to eat."
 		},
 		{
-			"author" : "William Gurnall",
-			"value"  : "The Christian must trust in a withdrawing God."
-		},
-		{
 			"author" : "Monica Seles",
 			"value"  : "I am lucky to have advisers whom I trust."
 		},
@@ -17214,10 +16854,6 @@ quotes = {
 			"value"  : "If global cooling will come soon - scientists will lose trust."
 		},
 		{
-			"author" : "Willie Green",
-			"value"  : "We have only God on our side they have 'In God We Trust' on their side."
-		},
-		{
 			"author" : "Aldrich Ames",
 			"value"  : "Deciding whether to trust or credit a person is always an uncertain task."
 		},
@@ -17353,11 +16989,11 @@ quotes = {
 				},
 				{
 					"author":	"Bjørn",
-					"value":	"The surface of venus is hot enough to melt lead."
+					"value":	"The Oh-My-God particle was a cosmic ray with equivalent energy to a baseball going 94km/h." 
 				},
 				{
 					"author":	"Bjørn",
-					"value":	"The Oh-My-God particle was a cosmic ray with equivalent energy to a baseball going 94km/h." 
+					"value":	"The surface of venus is hot enough to melt lead."
 				},
 				{
 					"author":	"Bjørn",
